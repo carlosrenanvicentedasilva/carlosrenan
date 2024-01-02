@@ -1,0 +1,7 @@
+.carousel-foto{
+    height: 600px;
+}
+
+.carousel-item{
+    transition-duration: 1s;
+}

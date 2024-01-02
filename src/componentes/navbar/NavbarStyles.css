@@ -1,0 +1,29 @@
+.navbar{
+    background: #ffffff;
+    transition: 2s ease;
+}
+
+.navbar-travada{
+    margin-top: 20px;
+}
+
+.navbar.scroll{
+    background: #ffffff;
+}
+
+.navbar-nav{
+    gap: 20px;
+}
+
+.navbar-nav > li >a{
+    color: #000000;
+    font-weight: 500;
+    font-size: 1.1rem;
+  }
+  .navbar-nav > li:hover >a,
+  .navbar-nav > li.active >a
+  {
+    color: #000000;
+    font-weight: 800;
+    font-size: 1.1rem;
+  }
